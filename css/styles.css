@@ -1,0 +1,17 @@
+body{
+    
+    background-color: palevioletred;
+    .bag{text-align: center;}
+    .images{
+        border-radius: 100%;
+        width: 220px;
+        position: relative;
+        top: 5px;
+        left: 500px;
+    }
+
+
+
+
+
+}
